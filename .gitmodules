@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/cynthiahqy/cynthiahqy.r-universe.dev
 	branch = HEAD
+[submodule "ggtilecal"]
+	path = ggtilecal
+	url = https://github.com/cynthiahqy/ggtilecal
+[submodule "ggtilematrix"]
+	path = ggtilematrix
+	url = https://github.com/cynthiahqy/ggtilematrix
